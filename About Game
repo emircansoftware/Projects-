@@ -1,0 +1,16 @@
+This is a Turn Based Battle game. In this project, i used stack. Soldiers were stored in the stack.
+
+Game Explanation:
+•Add soldiers to a specific side with their health and strength values.
+•Add random soldiers to a specific side with random health and strength values.
+•Initiate a fight between soldiers from two sides.
+•Remove a soldier from a specific side.
+•End the game when both sides have no soldiers left.
+
+A command -> Add soldier
+F command -> Fight between soldiers
+R command -> Create soldier with random strength and health
+C command -> Kill soldier
+
+
+
